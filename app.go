@@ -28,7 +28,7 @@ const (
 	sessionName     = "isucon_session"
 	tmpDir          = "/tmp/"
 	markdownCommand = "../bin/markdown"
-	dbConnPoolSize  = 10
+	dbConnPoolSize  = 30
 	sessionSecret   = "kH<{11qpic*gf0e21YK7YtwyUvE9l<1r>yX8R-Op"
 )
 
